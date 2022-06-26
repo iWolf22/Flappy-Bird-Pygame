@@ -1,4 +1,4 @@
-# Flappy-Bird-Pygame
+# Flappy-Bird-Pygame-README
 
 This is a fun flappy bird game I made in my computer communications class at WCI, just thought I would upload it to github if anyone would like to check it out!
 
