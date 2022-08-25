@@ -10,9 +10,9 @@ I hope you enjoy the game!
 
 ## Associating Links
 
- - Github: https://github.com/iWolf22/Java-Chess
- - Replit: https://replit.com/@TintinBS/Chess?v=1
- - Youtube: https://youtu.be/mo3MB4qB6r8
+ - Github: https://github.com/iWolf22/Flappy-Bird-Pygame
+ - Replit: https://replit.com/@JoshuaDierickse/Flappy-Bird-40?v=1
+ - Youtube: https://youtu.be/t1157xhHw74
 
 ---
 
