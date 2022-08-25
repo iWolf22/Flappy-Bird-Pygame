@@ -8,6 +8,14 @@ I hope you enjoy the game!
 
 ---
 
+## Associating Links
+
+ - Github: https://github.com/iWolf22/Java-Chess
+ - Replit: https://replit.com/@TintinBS/Chess?v=1
+ - Youtube: https://youtu.be/mo3MB4qB6r8
+
+---
+
 ## Contributors
 
 - Joshua Dierickse <joshua.dierickse@gmailcom>
