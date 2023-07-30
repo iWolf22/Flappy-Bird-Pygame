@@ -13,6 +13,7 @@ Note, if you are trying to download and run the game, you're going to need to in
 ^ This is a picture of the main screen ^
 
 ![Picture of main screen](https://drive.google.com/uc?id=1oCUfPzGEMtf29Zz5_ocxRULMN03X1GTz)
+
 ^ This is a picture of the shop ^
 
 I hope you enjoy the game!
