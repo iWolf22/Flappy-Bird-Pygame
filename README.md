@@ -4,10 +4,12 @@ This is a fun flappy bird game I made in my communications technology class at W
 
 Note, if you are trying to download and run the game, you're going to need to install Python and Pygame then you're going to have to run "main.py"
 
-![Picture of flappy bird game](https://drive.google.com/uc?id=16sBAOBTpeXb3DcOsj9PG-Mf1UgJ-IoG9)
+![Picture of flappy bird game](https://drive.google.com/uc?id=1aqvJnwh1ix7nXmhipG7UOF-nNEa0vBeY)
+
 ^ Here is a quick picture of the video game ^
 
 ![Picture of main screen](https://drive.google.com/uc?id=1IedBoWhBT5iPyIuC1wNvZzmRe1tKVoJR)
+
 ^ This is a picture of the main screen ^
 
 ![Picture of main screen](https://drive.google.com/uc?id=1oCUfPzGEMtf29Zz5_ocxRULMN03X1GTz)
